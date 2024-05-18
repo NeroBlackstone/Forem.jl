@@ -8,7 +8,7 @@ Please apply for your [DEV Community API Keys](https://dev.to/settings/extension
 
 ## Initialization
 
-Before calling the NamSor interface, you need to initialize the corresponding Forem API through `init_api()`.
+Before calling the Forem interface, you need to initialize the corresponding Forem API through `init_api()`.
 
 There are 14 API implementations. You need to initialize them to call the corresponding interfaces. 
 
